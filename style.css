@@ -217,3 +217,9 @@ main {
    color: var(--clr-white);
    background: var(--clr-black);
 }
+footer {
+   text-align: center;
+   color:var(--clr-black);
+   font-family:var(--clr-green-dark);
+   font-size: 2rem;
+}
